@@ -16,7 +16,11 @@ Follow these instructions to get your ViteWave project up and running on your lo
 - Clone the repository
 - Run `npm install` to install all dependencies
 - Run `npm run dev` to start the development server
-- Run `npm run serve` to serve the project for production
+- To serve the project for production, simply run
+```
+npm run build
+npm run preview
+```
 
 ## 🛠️ Built With
 
