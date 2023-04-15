@@ -2,8 +2,6 @@
 
 ViteWave is a **React project template** built with [Vite](https://vitejs.dev/), a next-generation frontend tooling that offers fast development and optimized build performance. This template provides a solid foundation for creating modern React applications with ease.
 
-![ViteWave Screenshot](./screenshot.png)
-
 ## 🚀 Getting Started
 
 Follow these instructions to get your ViteWave project up and running on your local machine.
