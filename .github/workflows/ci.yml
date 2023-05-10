@@ -28,4 +28,4 @@ jobs:
         run: npm run build
 
       - name: Run tests
-        run: npm test -- --coverage --watchAll=false
+        run: npm run test
